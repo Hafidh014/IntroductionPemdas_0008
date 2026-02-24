@@ -7,5 +7,5 @@ int main(){
     int angka = 10;
     float tinggi = 180.5;
     double harga = 20000.00;
-}
-   
+    string nama = "Johen";
+
